@@ -24,7 +24,6 @@
     </dependencies>
 
     <build>
-        <!-- seu código está direto em "src", não em "src/main/java" -->
         <sourceDirectory>src</sourceDirectory>
     </build>
 </project>
